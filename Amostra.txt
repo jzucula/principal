@@ -9,3 +9,4 @@ Depending on your user role and the method in which you access the CAT Tool, the
 Once you enter the CAT Tool, a new tab opens in your browser.
 
 Let's explore the navigation of the CAT Tool, with details of each feature.
+
